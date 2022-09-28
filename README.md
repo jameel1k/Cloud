@@ -1,2 +1,3 @@
 #Cloud Portfolio
-#This image shows Azure Cosmos DB, which I created with data. 
+#I created an Azure Cosmos DB 
+#I created a Blob container with data that I uploaded. 
